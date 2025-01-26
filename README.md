@@ -1,2 +1,5 @@
-# 100-Days-of-Code-Udemy-Course
+# 100 Days of Code Udemy Course 
 This is the repo for the Udemy course focused on web development.
+
+## Projects
+
