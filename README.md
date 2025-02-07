@@ -10,6 +10,8 @@ This is the repo for the Udemy course focused on web development.
 - ### ☕[**Further Adding JS**](https://github.com/NathanTh3Gr3at/FURTHER_ADDING_JS)
 - ### ❌ 0️⃣ [**Tic Tac Toe Game**](https://github.com/NathanTh3Gr3at/TIC_TAC_TOE_GAME) 
 - ### 💻 [**3rd Party Example**](https://github.com/NathanTh3Gr3at/3RD_PARTY_EXAMPLE)
+- Basic backend
+- Eatwell
 
 
 
