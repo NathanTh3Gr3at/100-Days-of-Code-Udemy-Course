@@ -16,4 +16,4 @@ This is the repo for the Udemy course focused on web development.
 
 
 
-> **_NOTE:_**  3rd Party example needs to have a readme.
+> **_NOTE:_**  3rd Party example,eatwell, more adv js needs to have a readme.
