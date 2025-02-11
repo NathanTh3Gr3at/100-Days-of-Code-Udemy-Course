@@ -7,8 +7,7 @@ Welcome to my collection of web development projects from the Udemy 100 days of 
 2. [⚡ JavaScript Practice](#-javascript-practice)  
 3. [🚀 Expanding on Concepts](#-expanding-on-concepts)  
 4. [🎯 Milestone Projects](#-milestone-projects)  
-5. [📚 How to Use This Repository](#-how-to-use-this-repository)  
-6. [🌱 Next Steps](#-next-steps)  
+5. [🌱 Next Steps](#-next-steps)  
 
 ---
 
