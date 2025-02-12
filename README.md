@@ -42,6 +42,7 @@ Larger projects that **apply and expand on previous learning**.
 | Project | Description |
 |---------|------------|
 | 🥫 [**Eatwell Website**](https://github.com/NathanTh3Gr3at/EATWELL_WEBSITE) | A website focused on healthy eating and nutrition. |
+| 📰 [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE) | A website focused on creating posts |
 
 ---
 
@@ -68,4 +69,4 @@ Bigger projects that demonstrate **problem-solving and development skills**.
 
 
 
-> **_NOTE:_**  3rd Party example,eatwell, more adv js needs to have a readme.
+> **_NOTE:_**  3rd Party example,eatwell, more adv js,blog website needs to have a readme.
