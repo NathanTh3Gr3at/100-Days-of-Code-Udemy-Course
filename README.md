@@ -3,11 +3,12 @@
 Welcome to my collection of web development projects from the Udemy 100 days of code course! These projects are categorized based on their focus areas (rather than order in course), from beginner-friendly concepts to JavaScript practice and larger milestone projects.
 
 ## 📁 **Table of Contents**
-1. [🛠 Basic Web Development](#-basic-web-development)  
-2. [⚡ JavaScript Practice](#-javascript-practice)  
-3. [🚀 Expanding on Concepts](#-expanding-on-concepts)  
-4. [🎯 Milestone Projects](#-milestone-projects)  
-5. [🌱 Next Steps](#-next-steps)  
+1. [🛠 Basic Web Development](#-basic-web-development)
+2. [🗄️ Database Integration](#-database-integration)
+3. [⚡ JavaScript Practice](#-javascript-practice)  
+4. [🚀 Expanding on Concepts](#-expanding-on-concepts)  
+5. [🎯 Milestone Projects](#-milestone-projects)  
+6. [🌱 Next Steps](#-next-steps)  
 
 ---
 
@@ -22,6 +23,18 @@ Foundational projects covering **HTML, CSS, and backend basics**.
 | ✍️ [**HTML Forms**](https://github.com/NathanTh3Gr3at/HTML_FORMS) | Examples of various HTML form implementations. |
 | 💻 [**3rd Party Example**](https://github.com/NathanTh3Gr3at/3RD_PARTY_EXAMPLE) | Integrating third-party services in web apps. |
 | 💻 [**Basic Backend**](https://github.com/NathanTh3Gr3at/ADDING_BASIC_BACKEND) | Introduction to backend functionality. |
+
+---
+
+## 🗄️ **Database Integration**
+Foundational knowledge for using **MySQL and NOSQL** databases to provide a backend for websites.
+
+| Project | Description |
+|---------|------------|
+| ✍️ [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE) | A simple blog website that makes use of a MySQL database. |
+| ✍️ [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE_NOSQL)| A simple blog website using MongoDB as its database. |
+| 📂 [**File Demo Website**](https://github.com/NathanTh3Gr3at/FILE_DEMO_WEBSITE) | A brief look into adding the functionality for a user to upload files to a website |
+
 
 ---
 
