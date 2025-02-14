@@ -6,9 +6,8 @@ Welcome to my collection of web development projects from the Udemy 100 days of 
 1. [🛠 Basic Web Development](#-basic-web-development)
 2. [🗄️ Database Integration](#-database-integration)
 3. [⚡ JavaScript Practice](#-javascript-practice)  
-4. [🚀 Expanding on Concepts](#-expanding-on-concepts)  
-5. [🎯 Milestone Projects](#-milestone-projects)  
-6. [🌱 Next Steps](#-next-steps)  
+4. [🎯 Milestone Projects](#-milestone-projects)  
+5. [🌱 Next Steps](#-next-steps)  
 
 ---
 
@@ -34,7 +33,7 @@ Foundational knowledge for using **MySQL and NOSQL** databases to provide a back
 | ✍️ [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE) | A simple blog website that makes use of a MySQL database. |
 | ✍️ [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE_NOSQL)| A simple blog website using MongoDB as its database. |
 | 📂 [**File Demo Website**](https://github.com/NathanTh3Gr3at/FILE_DEMO_WEBSITE) | A brief look into adding the functionality for a user to upload files to a website |
-
+| 🥫 [**Eatwell Website**](https://github.com/NathanTh3Gr3at/EATWELL_WEBSITE) | A website focused on healthy eating and nutrition. |
 
 ---
 
@@ -49,15 +48,6 @@ Projects that focus on **JavaScript fundamentals and advanced concepts**.
 
 ---
 
-## 🚀 **Expanding on Concepts**
-Larger projects that **apply and expand on previous learning**.
-
-| Project | Description |
-|---------|------------|
-| 🥫 [**Eatwell Website**](https://github.com/NathanTh3Gr3at/EATWELL_WEBSITE) | A website focused on healthy eating and nutrition. |
-| 📰 [**Blog Website**](https://github.com/NathanTh3Gr3at/BLOG_WEBSITE) | A website focused on creating posts |
-
----
 
 ## 🎯 **Milestone Projects**
 Bigger projects that demonstrate **problem-solving and development skills**.
