@@ -2,6 +2,8 @@
 
 Welcome to my collection of web development projects from the Udemy 100 days of code course! These projects are categorized based on their focus areas (rather than order in course), from beginner-friendly concepts to JavaScript practice and larger milestone projects.
 
+Only the Milesone Projects will have a detailed README.
+
 ## 📁 **Table of Contents**
 1. [🛠 Basic Web Development](#-basic-web-development)
 2. [🗄️ Database Integration](#-database-integration)
